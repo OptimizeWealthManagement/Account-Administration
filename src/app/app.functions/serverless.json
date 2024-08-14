@@ -1,0 +1,80 @@
+{
+  "appFunctions": {
+    "newAccountApplication": {
+      "file": "newAccountApplication.js",
+      "secrets": []
+    },
+    "fetchAssociations": {
+      "file": "fetchAssociations.js",
+      "secrets": []
+    },
+    "fetchJointAssociations": {
+      "file": "fetchJointAssociations.js",
+      "secrets": []
+    },
+    "fetchEntityAssociations": {
+      "file": "fetchEntityAssociations.js",
+      "secrets": []
+    },
+    "updateContactProperties": {
+      "file": "updateContactProperties.js",
+      "secrets": []
+    },
+    "updateKycProperties": {
+      "file": "updateKycProperties.js",
+      "secrets": []
+    },
+    "tickets": {
+      "file": "tickets.js",
+      "secrets": []
+    },
+    "kycs": {
+      "file": "kycs.js",
+      "secrets": []
+    },
+    "refreshKyc": {
+      "file": "refreshKyc.js",
+      "secrets": []
+    },
+    "transfers": {
+      "file": "transfers.js",
+      "secrets": []
+    },
+    "updateApplicationTicket": {
+      "file": "updateApplicationTicket.js",
+      "secrets": []
+    },
+    "updateTicketProperties": {
+      "file": "updateTicketProperties.js",
+      "secrets": []
+    },
+    "newJointAccountApplication": {
+      "file": "newJointAccountApplication.js",
+      "secrets": []
+    },
+    "newEntityAccountApplication": {
+      "file": "newEntityAccountApplication.js",
+      "secrets": []
+    },
+    "updateTicketAndKyc": {
+      "file": "updateTicketAndKyc.js",
+      "secrets": []
+    },
+    "cancel": {
+      "file": "cancel.js",
+      "secrets": []
+    },
+    "updateContactAndKycProperties": {
+      "file": "updateContactAndKycProperties.js",
+      "secrets": []
+    },
+    "createCif": {
+      "file": "createCif.js",
+      "secrets": []
+    },
+    "validateEmail": {
+      "file": "validateEmail.js",
+      "secrets": []
+    }
+  }
+}

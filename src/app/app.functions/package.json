@@ -1,0 +1,13 @@
+{
+  "name": "resturants-functions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "HubSpot",
+  "license": "MIT",
+  "dependencies": {
+    "@hubspot/api-client": "^7.0.1",
+    "@hubspot/ui-extensions": "^0.8.11",
+    "axios": "^0.27.2"
+  }
+}

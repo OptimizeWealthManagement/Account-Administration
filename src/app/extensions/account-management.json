@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Account Management",
+    "uid": "gift_meal_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "AccountManagementExtension.tsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

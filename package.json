@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "postinstall": "cd ./src/app/extensions/ && npm install && cd ../app.functions && npm install",
+    "dev": "npm run dev --prefix ./src/app/extensions/"
+  }
+}

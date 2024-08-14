@@ -1,0 +1,24 @@
+{
+  "name": "Account Management",
+  "description": "Manage client accounts, KYCs, and new account applications.",
+  "uid": "account_management",
+  "scopes": [
+    "crm.objects.contacts.read",
+    "crm.objects.contacts.write",
+    "crm.objects.custom.read",
+    "crm.objects.custom.write",
+    "tickets",
+    "collector.graphql_schema.read",
+    "collector.graphql_query.execute"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/account-management.json"
+        }
+      ]
+    }
+  }
+}
